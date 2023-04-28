@@ -298,8 +298,8 @@ export default function Home() {
                 id="form"
               >
                 <h1 className="text-3xl  font-bold text-center text-white">
-                  <span className="text-orange-500">(30% تخفيض)</span>
-                  <br /> أطلب الآن واستفد من عرض شهر رمضان{" "}
+                  <span className="text-orange-500">(33% تخفيض)</span>
+                  <br /> أطلب الآن واستفد من التخفيض{" "}
                 </h1>
 
                 <form action="#" method="post">
@@ -524,11 +524,11 @@ export default function Home() {
                     <div>
                       <div className="">
                         <p className=" mr-3 my-6 text-lg text-center text-white">
-                          30% تخفيض
+                          33% تخفيض
                         </p>
                         <p className="sm:flex block text-center justify-center">
                           <span className="text-5xl text-orange-500 font-bold  block sm:inline">
-                            6000 DA
+                            5800 DA
                           </span>
                           <span className=" text-white text-lg line-through block sm:inline">
                             8600 DA
